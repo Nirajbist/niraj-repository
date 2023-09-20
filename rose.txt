@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
 this is the rose file
-rf - rf
-clear
-escape/wq
+
 
